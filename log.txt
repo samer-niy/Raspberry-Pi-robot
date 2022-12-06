@@ -1,0 +1,20 @@
+Script started on 2022-08-07 18:17:11+01:00 [<not executed on terminal>]
+sbot.robot - SourceBots API v0.10.1
+[ WARN:0] global /tmp/pip-wheel-_v1u9svs/opencv-contrib-python-headless/opencv/modules/videoio/src/cap_v4l.cpp (893) open VIDEOIO(V4L2:/dev/video1): can't open camera by index
+[ WARN:0] global /tmp/pip-wheel-_v1u9svs/opencv-contrib-python-headless/opencv/modules/videoio/src/cap_v4l.cpp (893) open VIDEOIO(V4L2:/dev/video2): can't open camera by index
+[ WARN:0] global /tmp/pip-wheel-_v1u9svs/opencv-contrib-python-headless/opencv/modules/videoio/src/cap_v4l.cpp (893) open VIDEOIO(V4L2:/dev/video3): can't open camera by index
+[ WARN:0] global /tmp/pip-wheel-_v1u9svs/opencv-contrib-python-headless/opencv/modules/videoio/src/cap_v4l.cpp (893) open VIDEOIO(V4L2:/dev/video4): can't open camera by index
+[ WARN:0] global /tmp/pip-wheel-_v1u9svs/opencv-contrib-python-headless/opencv/modules/videoio/src/cap_v4l.cpp (893) open VIDEOIO(V4L2:/dev/video5): can't open camera by index
+[ WARN:0] global /tmp/pip-wheel-_v1u9svs/opencv-contrib-python-headless/opencv/modules/videoio/src/cap_v4l.cpp (893) open VIDEOIO(V4L2:/dev/video6): can't open camera by index
+[ WARN:0] global /tmp/pip-wheel-_v1u9svs/opencv-contrib-python-headless/opencv/modules/videoio/src/cap_v4l.cpp (893) open VIDEOIO(V4L2:/dev/video7): can't open camera by index
+sbot.robot - Found Zoloto Camera Board, serial: 0
+sbot.robot - Found Student Robotics v4 Power Board, serial: sr0WT27
+sbot.robot - Found Arduino Uno, serial: 9573632383235150C122
+sbot.robot - Found Student Robotics v4 Motor Board, serial: SR0GDN
+sbot.robot - Waiting for start button.
+sbot.robot - Start button pressed.
+sbot.metadata - No JSON metadata files found in /media
+
+Script done on 2022-08-07 18:21:52+01:00 [COMMAND_EXIT_CODE="0"]
+
+Your code finished successfully.
